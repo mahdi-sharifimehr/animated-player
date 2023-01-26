@@ -1,0 +1,1 @@
+export const track_name = "relax.mp3"; //The track uri for using in the player
